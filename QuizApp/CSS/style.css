@@ -1,0 +1,15 @@
+button {
+    margin: 0.5em;
+    border-radius: 50%;
+    border: none;
+    height: 4em;
+    width: 4em;
+    outline: none;
+    background: #00AFF0;
+    cursor: pointer;
+    transition: 0.2s ease-in-out;
+  }
+  button:hover {
+    background: #5DC5F0;
+  }
+  

@@ -1,0 +1,17 @@
+{
+    "firstName": "Qusai",
+    "lastName": "Fannoun",
+    "userName":"Qusai",
+    "password": "123456",
+    "gender": "Male",
+    "age": 23,
+    "address": {
+        "streetAddress": "62 Mosa Al-Nahar St.",
+        "city": "Amman",
+        "Country": "Jordan",
+        "Email": "qusaifannounAgmai.com"
+    },
+    "phoneNumbers": [
+        { "type": "Mobile", "number": "0798828364" }
+    ]
+}

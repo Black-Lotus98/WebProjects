@@ -1,0 +1,75 @@
+<!doctype html>
+<html lang="en">
+  
+  <head>
+    
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link href="css/bootstrap.min.css" rel="stylesheet" type="text/css">
+    <link href='https://api.mapbox.com/mapbox-gl-js/v2.3.1/mapbox-gl.css' rel='stylesheet' />
+    <script src='https://api.mapbox.com/mapbox-gl-js/v2.3.1/mapbox-gl.js'></script>
+
+
+  <title>Dashboard</title>
+</head>
+
+<body>
+
+
+  <div>
+    <div class="row" style="padding: 0; margin: 0; height: 13vh; ;background-color: rgb(6, 3, 17)">
+      <div class="col-md-12">
+        <img src="Logo.png" class="img-thumbnail float-end" alt="..." width="100" height="100" style="margin: 1em 1em 1em 1em">
+      </div>
+    </div>
+
+    <div class="row "style="padding: 0; margin: 0; height: 87vh;">
+
+      <div class=" col-md-3 overflow-auto" style="background-color:goldenrod ; padding: 3%; height: 87vh;">
+        <div class="form-group row">
+          <div class="col-sm-10"><link href='https://api.mapbox.com/mapbox-gl-js/v2.3.1/mapbox-gl.css' rel='stylesheet' />
+            <input type="Text" class="form-control" id="search" placeholder="Search">
+          </div>
+        </div>
+        <br>
+
+        <ul id="users" name="users" class="list-group">
+          <div class="row" >
+
+          </div>
+        </ul>
+      </div>
+
+      <div class=" col-md-9" style="background-color:beige ; padding: 3%">
+        
+      <div class="row" id="datadisplay">
+
+        
+      </div>
+      <div id='map' class="row" style='margin-top: 1em; margin-bottom:0em ; width: 600px; height:24vh;'></div>
+    
+     
+
+      
+      </div>
+
+      
+      </div>
+
+      
+    </div>
+  </div>
+</div>
+
+
+
+
+  <script src="https://code.jquery.com/jquery-2.2.4.min.js" integrity="sha256-BbhdlvQf/xTY9gja0Dq3HiwQF8LaCRTXxZKRutelT44=" crossorigin="anonymous"></script>
+  <script type="text/javascript" src="js/bootstrap.min.js"></script>
+  <script type="text/javascript" src="ListUsers.js"></script>
+  <script type="text/javascript" src="SearchBar.js"></script>
+  
+  
+</body>
+
+</html>
