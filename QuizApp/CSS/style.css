@@ -1,4 +1,4 @@
-button {
+.ProfileBtn {
     margin: 0.5em;
     border-radius: 50%;
     border: none;
@@ -9,7 +9,30 @@ button {
     cursor: pointer;
     transition: 0.2s ease-in-out;
   }
-  button:hover {
+  .ProfileBtn:hover {
     background: #5DC5F0;
   }
   
+  .card {
+    background: #000000d0;
+    color: white;
+    padding: 2em;
+    border-radius: 30px;
+    width: 100%;
+    max-width: 600px;
+    height: 50vh;
+    margin: 1em;
+   
+  }
+
+  .card1 {
+    background: #000000d0;
+    color: white;
+    padding: 2em;
+    border-radius: 30px;
+    width: 100%;
+    max-width: 600px;
+    text-align: center;
+    margin: 1em;
+   
+  }

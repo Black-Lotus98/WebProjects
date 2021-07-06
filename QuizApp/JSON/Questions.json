@@ -1,11 +1,99 @@
-{
-    "id":1,
-    "question": "What is name of this hero in the picture",
-    "Options":{
-        "A":"Phantom Assassin",
-        "B":"Pudge",
-        "C":"Invoker",
-        "D":"Phantom Lancer"
+[
+    {
+        "id":1,
+        "question": "Which CSS property configures the background color?",
+        "Options":{
+            "A":"background-color",
+            "B":"color",
+            "C":"background",
+            "D":"text-color"
+        },
+        "answer":"background-color",
+        "Time":20
     },
-    "answer":"Invoker"
-}
+    
+    {
+        "id":2,
+        "question": "Who is making the Web Standards?",
+        "Options":{
+            "A":"Mozilla",
+            "C":"Microsoft",
+            "B":"Apple",
+            "D":"The World Wide Web Consortium"
+        },
+        "answer":"The World Wide Web Consortium",
+        "Time":20
+    },
+    
+    {
+        "id":3,
+        "question": "What does HTML stand for?",
+        "Options":{
+            "A":"Hyper Text Markup Language",
+            "C":"Hyperlinks and Text Markup Language",
+            "D":"Home Tool Markup Language",
+            "B":"Hyper Tool Markup Language"
+        },
+        "answer":"Hyper Text Markup Language",
+        "Time":20,
+        "TimeCounter":0
+
+    },
+    
+    {
+        "id":4,
+        "question": "What is the correct sequence of HTML tags for starting a webpage?",
+        "Options":{
+            "C":"Head, Title, HTML",
+            "A":"HTML, Body, Head, Titel",
+            "B":"Body ,Title, Head, HTML",
+            "D":"HTML, Head, Title, Body"
+        },
+        "answer":"HTML, Head, Title, Body",
+        "Time":20,
+        "TimeCounter":0
+    },
+    
+    {
+        "id":5,
+        "question": "Choose the correct HTML tag for the largest heading.",
+        "Options":{
+            "A":"H1",
+            "B":"Heading",
+            "C":"Head",
+            "D":"H6"
+        },
+        "answer":"H1",
+        "Time":20,
+        "TimeCounter":0
+    },
+    
+    {
+        "id":6,
+        "question": "How can you make a list that lists the items with bullets?",
+        "Options":{
+            "A":"Dl",
+            "B":"Ul",
+            "C":"Ol",
+            "D":"List"
+        },
+        "answer":"Ul",
+        "Time":20,
+        "TimeCounter":0
+    },
+
+
+    {
+        "id":7,
+        "question": "How can you make a list that lists the items with numbers?",
+        "Options":{
+            "A":"Ol",
+            "B":"Dl",
+            "C":"Ul",
+            "D":"List"
+        },
+        "answer":"Ol",
+        "Time":20,
+        "TimeCounter":0
+    }    
+]
