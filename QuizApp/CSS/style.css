@@ -1,3 +1,4 @@
+
 .ProfileBtn {
     margin: 0.5em;
     border-radius: 50%;
@@ -5,12 +6,12 @@
     height: 4em;
     width: 4em;
     outline: none;
-    background: #00AFF0;
+    background: white;
     cursor: pointer;
     transition: 0.2s ease-in-out;
   }
   .ProfileBtn:hover {
-    background: #5DC5F0;
+    background: #ffffffaa;
   }
   
   .card {

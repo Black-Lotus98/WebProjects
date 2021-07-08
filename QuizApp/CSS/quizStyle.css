@@ -1,0 +1,45 @@
+.card {
+  background: #f0fcff;
+  border: solid 3px;
+  border-color: #0192e1;
+  color: black;
+  padding: 2em;
+  border-radius: 24px;
+  margin: 1em;
+}
+
+
+
+.full-width
+{
+    width: 100%;
+    text-align: left;
+}
+
+.half-width
+{
+    width: 50%;
+}
+
+
+.ProfileBtn {
+    margin: 0.5em;
+    border-radius: 50%;
+    border: none;
+    height: 4em;
+    width: 4em;
+    outline: none;
+    background: white;
+    cursor: pointer;
+    transition: 0.2s ease-in-out;
+  }
+
+  .ProfileBtn:hover {
+    background: #ffffffaa;
+  }
+
+  .btn-dark:hover {
+    color:black;
+    background-color: #ffffff00;
+    border-color: #212529;
+}

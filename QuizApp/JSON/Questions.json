@@ -9,7 +9,9 @@
             "D":"text-color"
         },
         "answer":"background-color",
-        "Time":20
+        "Time":20,
+        "TimeRremaining":-1
+
     },
     
     {
@@ -22,7 +24,8 @@
             "D":"The World Wide Web Consortium"
         },
         "answer":"The World Wide Web Consortium",
-        "Time":20
+        "Time":20,
+        "TimeRremaining":-1
     },
     
     {
@@ -36,7 +39,7 @@
         },
         "answer":"Hyper Text Markup Language",
         "Time":20,
-        "TimeCounter":0
+        "TimeRremaining":-1
 
     },
     
@@ -51,7 +54,7 @@
         },
         "answer":"HTML, Head, Title, Body",
         "Time":20,
-        "TimeCounter":0
+        "TimeRremaining":-1
     },
     
     {
@@ -65,7 +68,7 @@
         },
         "answer":"H1",
         "Time":20,
-        "TimeCounter":0
+        "TimeRremaining":-1
     },
     
     {
@@ -79,7 +82,7 @@
         },
         "answer":"Ul",
         "Time":20,
-        "TimeCounter":0
+        "TimeRremaining":-1
     },
 
 
@@ -94,6 +97,188 @@
         },
         "answer":"Ol",
         "Time":20,
-        "TimeCounter":0
-    }    
+        "TimeRremaining":-1
+    },
+
+    {
+        "id":8,
+        "question": "Which of the following element is responsible for making the text bold in HTML?",
+        "Options":{
+            "A":"pre",
+            "B":"a",
+            "C":"b",
+            "D":"br"
+        },
+        "answer":"b",
+        "Time":20,
+        "TimeRremaining":-1
+    },    
+
+    {
+        "id":9,
+        "question": "Which of the following tag is used to insert a line-break in HTML?",
+        "Options":{
+            "A":"br",
+            "B":"a",
+            "C":"pre",
+            "D":"b"
+        },
+        "answer":"br",
+        "Time":20,
+        "TimeRremaining":-1
+    },
+
+    {
+        "id":10,
+        "question": "Which character is used to represent the closing of a tag in HTML?",
+        "Options":{
+            "A":"\\",
+            "B":"!",
+            "C":"/",
+            "D":"."
+        },
+        "answer":"/",
+        "Time":20,
+        "TimeRremaining":-1
+    },
+
+    {
+        "id":11,
+        "question": "Which of the following tag is used to make the underlined text?",
+        "Options":{
+            "A":"i",
+            "B":"ul",
+            "C":"u",
+            "D":"pre"
+        },
+        "answer":"u",
+        "Time":20,
+        "TimeRremaining":-1
+    },
+
+    {
+        "id":12,
+        "question": "Which of the following element is responsible for making the text italic in HTML?",
+        "Options":{
+            "A":"i",
+            "B":"italic",
+            "C":"it",
+            "D":"pre"
+        },
+        "answer":"i",
+        "Time":20,
+        "TimeRremaining":-1
+    },
+
+    {
+        "id":13,
+        "question": "Which of the following tag is used to define options in a drop-down selection list?",
+        "Options":{
+            "A":"select",
+            "B":"list",
+            "C":"dropdown",
+            "D":"option"
+        },
+        "answer":"option",
+        "Time":20,
+        "TimeRremaining":-1
+    },
+
+    {
+        "id":14,
+        "question": "Which of the following tag is used to add rows in the table?",
+        "Options":{
+            "A":"td and /td",
+            "B":"th and /th",
+            "C":"tr and /tr",
+            "D":"None of the above"
+        },
+        "answer":"tr and /tr",
+        "Time":20,
+        "TimeRremaining":-1
+    },
+
+    {
+        "id":15,
+        "question": "The 'hr' tag in HTML is used for -",
+        "Options":{
+            "A":"new line",
+            "B":"vertical ruler",
+            "C":"new paragraph",
+            "D":"horizontal ruler"
+        },
+        "answer":"horizontal ruler",
+        "Time":20,
+        "TimeRremaining":-1
+    },
+
+    {
+        "id":16,
+        "question": "Which of the following attribute is used to provide a unique name to an element?",
+        "Options":{
+            "A":"class",
+            "B":"id",
+            "C":"type",
+            "D":"None of the above"
+        },
+        "answer":"id",
+        "Time":20,
+        "TimeRremaining":-1
+    },
+
+    {
+        "id":17,
+        "question": "What are the types of unordered or bulleted list in HTML?",
+        "Options":{
+            "A":"disc, square, triangle",
+            "B":"polygon, triangle, circle",
+            "C":"disc, circle, square",
+            "D":"All of the above"
+        },
+        "answer":"disc, circle, square",
+        "Time":20,
+        "TimeRremaining":-1
+    },
+
+    {
+        "id":18,
+        "question": "Which of the following HTML attribute is used to define inline styles?",
+        "Options":{
+            "A":"style",
+            "B":"type",
+            "C":"class",
+            "D":"None of the above"
+        },
+        "answer":"style",
+        "Time":20,
+        "TimeRremaining":-1
+    },
+
+    {
+        "id":19,
+        "question": "A program in HTML can be rendered and read by -",
+        "Options":{
+            "A":"Web browser",
+            "B":"Server",
+            "C":"Interpreter",
+            "D":"None of the above"
+        },
+        "answer":"Web browser",
+        "Time":20,
+        "TimeRremaining":-1
+    },
+
+    {
+        "id":20,
+        "question": "Which of the following are the attributes of the tag?",
+        "Options":{
+            "A":"method",
+            "B":"action",
+            "C":"Both (a) & (b)",
+            "D":"None of the above"
+        },
+        "answer":"Both (a) & (b)",
+        "Time":20,
+        "TimeRremaining":-1
+    }
 ]
